@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
+<?xml version="1.0" encoding="UTF-8" ?>
 <html b:responsive='true' b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   &lt;head&gt;
 
@@ -3557,7 +3557,7 @@ user is not using shrink to fit then we expand the header.
                         <a CLASS='butn butn-bord mt-30' HREF='#blog' data-scroll-nav='3'>
                             <span>View Work</span>
                         </a>
-                        <a CLASS='butn butn-light mt-30' HREF='http://download1580.mediafire.com/k0o70bg0ajpg/izuwhcggk7yf3kq/MY-CV.pdf'>
+                        <a CLASS='butn butn-light mt-30' HREF='https://raw.githubusercontent.com/ahmedgamalzak0/cv/main/my-cv.pdf'>
                             <span>Download CV</span>
                         </a>
     				</div>
@@ -3717,7 +3717,7 @@ user is not using shrink to fit then we expand the header.
                   <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
                   <b:widget-setting name='style.layout'>1x1</b:widget-setting>
                   <b:widget-setting name='showLabels'>true</b:widget-setting>
-                  <b:widget-setting name='showLocation'>true</b:widget-setting>
+                  <b:widget-setting name='showLocation'>false</b:widget-setting>
                   <b:widget-setting name='showTimestamp'>true</b:widget-setting>
                   <b:widget-setting name='postsPerAd'>1</b:widget-setting>
                   <b:widget-setting name='showBacklinks'>false</b:widget-setting>
